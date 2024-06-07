@@ -46,6 +46,6 @@ This project is a React application for generating memes. It is currently under 
 
 ## Author
 
-- [Shantanu Pawar](https://github.com/yourusername)
+- [Shantanu Pawar](https://github.com/Shantanupawar77)
 
 Feel free to contribute to these projects by submitting issues or pull requests.
